@@ -1,8 +1,7 @@
 # tutorial-notebooks
 
-Tutorial Jupyter Notebooks for Data Preview 0.2 and 0.3, created and maintained by the Rubin Observatory Community Science Team.
-
-The `prod` branch will appear in IDF RSP users' home directories, in `notebooks/tutorial-notebooks/`.
+Tutorial Jupyter Notebooks for Data Preview 0.2 and 0.3, created and maintained by the Rubin Observatory Community Science Team. 
+Adapted to CC-IN2P3 environment by Gabriele Mainetti. 
 
 <br>
 
@@ -29,10 +28,10 @@ The `prod` branch will appear in IDF RSP users' home directories, in `notebooks/
 | 11. Working with User Packages | An example of how to install and set up user packages. |
 | 12a. Point Spread Function Data Products | A demonstration of how to access calexp and deepCoadd PSF properties. |
 | 12b. Point Spread Function Science Demo | Demonstration of the use of measured PSF properties in weak lensing analysis. |
-| 13a. Using The Image Cutout Tool With DP0.2 | Demonstration of the use of the image cutout tool with a few science applications. |
-| 14. Injecting Synthetic Sources Into Single-Visit Images | Inject artificial stars and galaxies into images. |
+| 13a. DOESN'T WORK AT CC-IN2P3 Using The Image Cutout Tool With DP0.2 | Demonstration of the use of the image cutout tool with a few science applications. |
+| 14. DOESN'T WORK AT CC-IN2P3 Injecting Synthetic Sources Into Single-Visit Images | Inject artificial stars and galaxies into images. |
 
-## DP0.3 Tutorials
+## DP0.3 Tutorials DOESN'T WORK AT CC-IN2P3
 
 | Title  | Brief Description  |
 |---|---|
